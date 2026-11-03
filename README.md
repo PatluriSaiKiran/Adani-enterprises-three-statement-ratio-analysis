@@ -44,10 +44,6 @@ Financial data was extracted from [Screener.in](https://www.screener.in) (annual
 - Borrowings increased from ₹20,846 crore in FY17 to ₹106,622 crore in FY26.
 - In FY26, cash from operations was ₹2,357 crore, while investing outflows were ₹27,680 crore. The gap was met mainly by financing inflows of ₹28,484 crore, which indicates that expansion is being funded largely by external capital.
 
-## Key Ratio Findings
-
-*Add your findings here after the workbook formulas are corrected, for example the trend in EBITDA margin, ROE and ROCE.*
-
 ## Limitations
 
 - The analysis relies on data from a single secondary source and has not been reconciled with the company's annual reports.
