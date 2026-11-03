@@ -53,8 +53,3 @@ Financial data was extracted from [Screener.in](https://www.screener.in) (annual
 ## Tools
 
 Microsoft Excel (formulas, linked sheets and ratio tables)
-
-## Author
-
-Sai Kiran Patluri
-MSc International Business with Business Analytics, Anglia Ruskin University
